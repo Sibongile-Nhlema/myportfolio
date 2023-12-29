@@ -20,6 +20,9 @@ export default function Navbar() {
           <a href="Articles" className="mr-5 hover:text-white">
             Articles
           </a>
+          <a href="/components/Blog.js" className="mr-5 hover:text-white">
+            Blog
+          </a>
         </nav>
         <a
           href="#contact"
