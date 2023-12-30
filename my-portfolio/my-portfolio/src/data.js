@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "React Weather App",
+    subtitle: "based on SheCodes Workshop",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./weather-app-react.gif",
+    link: "https://astonishing-paletas-b30875.netlify.app/",
   },
   {
     title: "React Tracks",
