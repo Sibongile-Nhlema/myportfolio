@@ -1,36 +1,27 @@
 export const projects = [
   {
-    title: "React Weather App",
-    subtitle: "based on SheCodes Workshop",
+    title: "Weather App",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./weather-app-react.gif",
+      "A Earthy and nature inspired weather app that shows the user the 7 day forecast of any area inputted.",
     link: "https://astonishing-paletas-b30875.netlify.app/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Javascript Calculator Tracks",
+    subtitle: "Html, CSS, Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+      "A Simple non-scientific Calculator made using Javascript",
+    image: "./JavaScript-calculator.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Simple Christmas tree",
+    subtitle: "Html, CSS, Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "A simple, fun and festive christmas tree that rotates indefinitely",
+    image: "./Christmas-tree.gif",
     link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+  }
 ];
 
 export const articles = [
