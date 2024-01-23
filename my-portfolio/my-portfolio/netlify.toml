@@ -1,5 +1,5 @@
 [build]
-  command = "yarn start"
+  command = "yarn build"
 
 [[redirects]]
   from = "/*"
