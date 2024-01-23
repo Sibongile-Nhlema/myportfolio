@@ -4,6 +4,7 @@ export const projects = [
     subtitle: "React",
     description:
       "A Earthy and nature inspired weather app that shows the user the 7 day forecast of any area inputted.",
+    image: "./weather-app-react.gif",
     link: "https://astonishing-paletas-b30875.netlify.app/",
   },
   {
